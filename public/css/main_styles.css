@@ -1,0 +1,17 @@
+.iframe_style {
+  width: 740px;
+  height: 440px;
+}
+
+.project_font {
+  color: #a25f2a;
+  font-size: 6pt;
+  font-weight: 600;
+}
+
+.school_museum_font {
+  color: #a25f2a;
+  text-align: center;
+  font-style: bold;
+  font-size: 5pt;
+}
